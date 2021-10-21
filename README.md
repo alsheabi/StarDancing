@@ -20,7 +20,7 @@
 
 # Sample of krypoints output:
 Each Landmark consists of the Following:
- `0` -> Nose , `8` -> Left ear, and `11` -> right Shoulder.
+`id` belong to the location on body such as `0` -> Nose , `8` -> Left ear, and `11` -> right Shoulder.
 `x` and `y:` Landmark coordinates normalized to `[0.0, 1.0]` by the image width and height respectively.
 `z:` Represents the landmark depth with the depth at the midpoint of hips being the origin, and the smaller the value the closer the landmark is to the camera. The magnitude of z uses roughly the same scale as x.
 `visibility:` A value in `[0.0, 1.0]` indicating the likelihood of the landmark being visible (present and not occluded) in the image.
