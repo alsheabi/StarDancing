@@ -9,4 +9,4 @@
 
 
 StarDancing Vid explains the idea:\
-[Watch StarDancing Vid ](https://vimeo.com/637615941)
+[Watch StarDancing Video ](https://vimeo.com/637615941)
