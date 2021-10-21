@@ -1,3 +1,3 @@
-Dep (Install)
+Dependencies:
 
-!pip install mediapipe
+- !pip install mediapipe opencv-python
