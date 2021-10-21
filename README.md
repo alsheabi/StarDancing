@@ -1,6 +1,17 @@
 # Dependencies:
 
 - !pip install mediapipe opencv-python
+- Simulation of dynamics:
+. Numpy
+. Math
+. SciPy
+- GUI:
+. Matplotlib
+. Matplotlib Mapping Toolkits
+- Threading:
+. Time
+. Datetime
+. Threading
 
 
 # How to run:
