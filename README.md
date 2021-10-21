@@ -18,7 +18,7 @@
 - StarDancing.py file  to detect motion of human and get keypoints values in real time. [Watch detection and Tracking body motions  ](https://vimeo.com/637641650) 
 
 
-# Sample of krypoints output:
+# Sample of keypoints output:
 Each Landmark consists of the Following:
 `id` belong to the location on body such as `0` -> Nose , `8` -> Left ear, and `11` -> right Shoulder.
 `x` and `y:` Landmark coordinates normalized to `[0.0, 1.0]` by the image width and height respectively.
