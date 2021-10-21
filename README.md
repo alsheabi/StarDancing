@@ -8,8 +8,7 @@
 
 
 
-# StarDancing video: 
-[Watch StarDancing Video ](https://vimeo.com/637615941) 
+# StarDancing video:    [Watch StarDancing Video ](https://vimeo.com/637615941) 
 
 
 
