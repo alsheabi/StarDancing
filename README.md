@@ -1,1 +1,3 @@
-Here what you should follow
+Dep (Install)
+
+!pip install mediapipe
