@@ -9,4 +9,4 @@ How to run:
 
 
 StarDancing Vid explains the idea:
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://vimeo.com/637615941)
+[Watch StarDancing Vid ](https://vimeo.com/637615941)
