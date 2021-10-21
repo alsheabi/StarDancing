@@ -15,7 +15,7 @@
 
 
 # How to run:
-- StarDancing.py file  to detect motion of human and get keypoints values.
+- StarDancing.py file  to detect motion of human and get keypoints values in real time. [Watch StarDancing Video ](https://vimeo.com/637641650) 
 
 
 # More Details:
