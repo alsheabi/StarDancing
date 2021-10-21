@@ -44,3 +44,4 @@ Star Dancing is elevating the discussion on the relationship between humans and 
  
  # References: 
  - https://google.github.io/mediapipe/solutions/pose.html#pose_landmarks
+ - https://github.com/abhijitmajumdar/Quadcopter_simulator
