@@ -15,7 +15,11 @@
 
 
 # How to run:
-- StarDancing.py file  to detect motion of human and get keypoints values in real time. [Watch detection and Tracking body motions  ](https://vimeo.com/637641650) 
+Here we implement Demo of our project,starting with estamate motion in realtime, then send data to drones to resample same motion in sky, because we do not have drones, we use simulators, steps below:
+- Starting with detect motions in real time to get coordinates point by using `StarDancing.py` . [Watch detection and Tracking body motions  ](https://vimeo.com/637641650).
+- get the results of coordinates  `sample of Coordinates output.txt` file contains the data where we use in simlator.
+- use the output file as input in simulators to locate the postions of drones.
+- clone this repo to use simulator `https://github.com/abhijitmajumdar/Quadcopter_simulator`
 
 
 # Sample of keypoints output:
